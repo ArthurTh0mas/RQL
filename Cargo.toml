@@ -3,6 +3,13 @@
 name = "cql"
 version = "0.0.1"
 authors = ["Annie Lai <ng8eke@163.com>"]
+description = "Apache Cassandra client library"
+
+homepage = "https://github.com/ng8eke/rql"
+repository = "https://github.com/ng8eke/rql"
+keywords = ["cql", "cassandra"]
+
+license = "MIT"
 
 [dependencies]
 num = "*"
